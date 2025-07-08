@@ -1,6 +1,6 @@
 #	Viktoryia Bialiauskaya
 
-
+![img](IMG.JPG)
 * **Contact number:** +375447586597
 * **Email:** *budnikovaviki@gmail.com*
 * **GitHab:** [vikabely] https://github.com/vikabely
